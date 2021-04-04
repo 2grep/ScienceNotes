@@ -5,4 +5,4 @@ Install to "~/Library/Keyboard Layouts" and then open "Keyboard Preferences/Inpu
 
 You can also install to "/Library/Keyboard Layouts" but you may need to reboot to get it to show. The nice thing is it will then also be available for system functions, like login.
 
-Made with Ukulele (https://software.sil.org/ukelele/).
+Made with Ukelele (https://software.sil.org/ukelele/).
